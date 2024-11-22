@@ -1,5 +1,9 @@
-## Hi there 👋
+![bannergithubtry1](https://github.com/user-attachments/assets/7d0e517d-eb7f-44f2-8fa3-7f6730f220c4)
 
+## print ('Hello there, i'm Ego Balance 🧧')
+Python, HTML, CSS and PHP // Wireshark, Cisco, GNS3.
+
+Currently learning pen testing and macroing.
 <!--
 **egobalance1/egobalance1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
