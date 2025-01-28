@@ -1,4 +1,3 @@
-![bannergithubtry1](https://github.com/user-attachments/assets/7d0e517d-eb7f-44f2-8fa3-7f6730f220c4)
 
 ## print ('Hello there, i'm Ego Balance 🧧')
 Python, HTML, CSS and PHP // Wireshark, Cisco, GNS3.
