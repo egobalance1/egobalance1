@@ -1,8 +1,8 @@
 
 ## print ('Hello there, i'm Ego Balance 🧧')
-Python, HTML, CSS and PHP // Wireshark, Cisco, GNS3.
+python, python and linux.
 
-Currently learning pen testing and macroing.
+currently learning pen testing and macroing.
 <!--
 **egobalance1/egobalance1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
